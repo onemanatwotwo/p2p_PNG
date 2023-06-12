@@ -1,0 +1,5 @@
+2023-06-09 09:47:09 - Chunk wholeimages/bf_1 sent to 10.0.25.20
+2023-06-09 09:47:09 - Chunk wholeimages/bf_2 sent to 10.0.25.20
+2023-06-09 09:47:09 - Chunk wholeimages/bf_3 sent to 10.0.25.20
+2023-06-09 09:47:09 - Chunk wholeimages/bf_4 sent to 10.0.25.20
+2023-06-09 09:47:09 - Chunk wholeimages/bf_5 sent to 10.0.25.20
